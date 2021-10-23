@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExertMiniBlink.Wpf", "ExertMiniBlink.Wpf\ExertMiniBlink.Wpf.csproj", "{8DA6462E-3197-4291-91FE-7473346E74CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExertMiniBlink.Core", "ExertMiniBlink.Core\ExertMiniBlink.Core.csproj", "{30843E23-FD28-47AF-9661-06EC37DA3D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExertMiniBlink.WinForm", "ExertMiniBlink.WinForm\ExertMiniBlink.WinForm.csproj", "{20EA3E50-97B6-4482-B7C7-9F05FD7CE0AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA6462E-3197-4291-91FE-7473346E74CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA6462E-3197-4291-91FE-7473346E74CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA6462E-3197-4291-91FE-7473346E74CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA6462E-3197-4291-91FE-7473346E74CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30843E23-FD28-47AF-9661-06EC37DA3D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30843E23-FD28-47AF-9661-06EC37DA3D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30843E23-FD28-47AF-9661-06EC37DA3D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30843E23-FD28-47AF-9661-06EC37DA3D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EA3E50-97B6-4482-B7C7-9F05FD7CE0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EA3E50-97B6-4482-B7C7-9F05FD7CE0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EA3E50-97B6-4482-B7C7-9F05FD7CE0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EA3E50-97B6-4482-B7C7-9F05FD7CE0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96EECDAA-39AE-47A5-BB89-CD9C3F179C6A}
+	EndGlobalSection
+EndGlobal
